@@ -435,7 +435,7 @@ export default function Portfolio() {
 
   {/* Foto 2 - Kanan Atas (Sejajar Foto 1) */}
   <div className="aspect-square bg-zinc-900 rounded-[2rem] border border-white/5 overflow-hidden shadow-xl transition-all hover:border-cyan-500/50 group">
-    <img src="/pengambilanData.jpg" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" alt="Pengambilan Data" />
+    <img src="/test1.jpg" className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110" alt="Pengambilan Data" />
   </div>
 
   {/* Foto 3 - Kiri Bawah */}
